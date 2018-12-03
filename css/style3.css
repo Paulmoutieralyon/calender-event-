@@ -116,6 +116,18 @@ a:focus {
 	left: 3vw;
 }
 
+#compte_a_rebours{
+	font-family: Trattatello ;
+	text-align: center;
+	font-size: 35px;
+}
+.codrops-header__title{
+	font-family: Jazz LET, fantasy ;
+}
+
+
+
+
 @media screen and (max-width: 50.75em) {
 	.js .content__block {
 		padding: 4em 2em 0;
